@@ -1,5 +1,5 @@
-# Andrés Alejandro Morales González
-**Desarrollador Full Stack | React.js | Node.js**
+# Andrés Morales
+**Full Stack Developer | Web & Mobile | IA Enthusiast**
 
 Construyo interfaces modernas y APIs escalables. Enfoque en **performance**, **accesibilidad** y **testing automático**.
 

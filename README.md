@@ -34,8 +34,8 @@ I build web and mobile products end to end: APIs and backends with NestJS and No
 
 ## 🚀 Projects
 
-- **Portfolio**: my experience and skills. [Live demo](https://portafolio-five-theta-75.vercel.app) · [Repo](https://github.com/imandresmorales/portafolio)
-- **Full Stack Open**: University of Helsinki coursework, apps with authentication, tests and deployment. [Repo](https://github.com/imandresmorales/FullStackOpen)
+- **EcuaClima**: full stack weather app for Ecuador (React, Express) with city search, province view, interactive map, ES/EN language switch, automated tests and CI/CD. [Live demo](https://imandresmorales.github.io/ecuaclima/)
+- **Portfolio**: my experience and skills. [Live demo](https://portafolio-five-theta-75.vercel.app)
 
 ## 📫 Contact
 
@@ -63,8 +63,8 @@ Construyo productos web y móviles de principio a fin: APIs y backends con NestJ
 
 ### 🚀 Proyectos
 
-- **Portafolio**: mi experiencia y habilidades. [Demo](https://portafolio-five-theta-75.vercel.app) · [Repositorio](https://github.com/imandresmorales/portafolio)
-- **Full Stack Open**: trabajos del curso de la Universidad de Helsinki, apps con autenticación, pruebas y despliegue. [Repositorio](https://github.com/imandresmorales/FullStackOpen)
+- **EcuaClima**: app full stack del clima de Ecuador (React, Express) con buscador de ciudades, vista por provincias, mapa interactivo, cambio de idioma ES/EN, pruebas automatizadas y CI/CD. [Demo en vivo](https://imandresmorales.github.io/ecuaclima/)
+- **Portafolio**: mi experiencia y habilidades. [Demo en vivo](https://portafolio-five-theta-75.vercel.app)
 
 ### 📫 Contacto
 

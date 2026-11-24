@@ -67,7 +67,7 @@ Construyo productos web y móviles de principio a fin: APIs y backends con NestJ
 
 ### 🚀 Proyectos
 
-- **EcuaClima**: app full stack del clima de Ecuador (React, Express) con buscador de ciudades, vista por provincias, mapa interactivo, cambio de idioma ES/EN, pruebas automatizadas y CI/CD. [Demo en vivo](https://imandresmorales.github.io/ecuaclima/)
+- **EcuaClima**: app full stack del clima de Ecuador (React, Express) con un **asistente de IA** (Gemini con tool calling sobre datos reales de Open-Meteo, con verificación de las cifras), buscador de ciudades, vista por provincias, mapa interactivo, ES/EN, pruebas automatizadas y CI/CD. Hecho con Claude Code. [Demo en vivo](https://ecuaclima.vercel.app/)
 - **Portafolio**: mi experiencia y habilidades. [Demo en vivo](https://portafolio-five-theta-75.vercel.app)
 
 ### 📫 Contacto

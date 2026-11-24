@@ -1,7 +1,7 @@
-# Hi, I'm Andrés 👋
+# Hi, I'm Andres 👋
 
 **Full Stack Developer** · TypeScript · React / Next.js · NestJS · Flutter
-📍 Ecuador (UTC-5) · Open to remote roles
+📍 Ecuador (UTC-5) · Open to remote roles · Available immediately
 
 I build web and mobile products end to end: APIs and backends with NestJS and Node.js, web apps with React and Next.js, and mobile apps with Flutter. I care about **performance**, **maintainable code** and **automated testing**.
 
@@ -24,13 +24,15 @@ I build web and mobile products end to end: APIs and backends with NestJS and No
   <img alt="Testing: Jest, Vitest, Playwright, Cypress" src="https://img.shields.io/badge/Testing-Jest%20%7C%20Vitest%20%7C%20Playwright%20%7C%20Cypress-6E40C9?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 </p>
 
-## 💼 Currently
+## 💼 Experience & certifications
 
-- Full Stack Developer at a software company in Ecuador since Sep 2025, building production web and mobile apps.
-- Recent win: cut an app's initial load time in half, made login ~3x faster and reduced image weight from 20+ MB to under 5 MB (PNG → WebP).
-- Oracle Cloud Infrastructure Foundations Associate, currently in the Oracle Next Education (ONE) program.
+- Full Stack Developer at a software company in Ecuador (Sep 2025 – Nov 2026), building production web and mobile apps.
+- Highlight: cut an app's initial load time in half, made login ~3x faster and reduced image weight from 20+ MB to under 5 MB (PNG → WebP).
+- Oracle Next Education (ONE) program, in progress.
+- Oracle Cloud Infrastructure Certified AI Foundations Associate (Nov 2026).
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate (Jun 2026).
 
-> Most of my professional work lives in private company repositories.
+> Most of my professional work lived in private company repositories.
 
 ## 🚀 Projects
 
@@ -49,17 +51,19 @@ I build web and mobile products end to end: APIs and backends with NestJS and No
 ### Hola, soy Andrés 👋
 
 **Desarrollador Full Stack** · TypeScript · React / Next.js · NestJS · Flutter
-📍 Ecuador (UTC-5) · Disponible para trabajo remoto
+📍 Ecuador (UTC-5) · Disponible para trabajo remoto · Disponible de inmediato
 
 Construyo productos web y móviles de principio a fin: APIs y backends con NestJS y Node.js, aplicaciones web con React y Next.js, y apps móviles con Flutter. Me enfoco en el **rendimiento**, el **código mantenible** y las **pruebas automatizadas**.
 
-### 💼 Actualmente
+### 💼 Experiencia y certificaciones
 
-- Desarrollador Full Stack en una empresa de software en Ecuador desde septiembre de 2025, construyendo aplicaciones web y móviles en producción.
-- Logro reciente: reduje a la mitad el tiempo de carga inicial de una app, el inicio de sesión carga ~3 veces más rápido y el peso de las imágenes bajó de más de 20 MB a menos de 5 MB (PNG → WebP).
-- Certificado Oracle Cloud Infrastructure Foundations Associate y actualmente en el programa Oracle Next Education (ONE).
+- Desarrollador Full Stack en una empresa de software en Ecuador (sept. 2025 – nov. 2026), construyendo aplicaciones web y móviles en producción.
+- Logro destacado: reduje a la mitad el tiempo de carga inicial de una app, el inicio de sesión carga ~3 veces más rápido y el peso de las imágenes bajó de más de 20 MB a menos de 5 MB (PNG → WebP).
+- Programa Oracle Next Education (ONE), en curso.
+- Oracle Cloud Infrastructure Certified AI Foundations Associate (nov. 2026).
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate (jun. 2026).
 
-> La mayor parte de mi trabajo profesional está en repositorios privados de la empresa.
+> La mayor parte de mi trabajo profesional quedó en repositorios privados de la empresa.
 
 ### 🚀 Proyectos
 
